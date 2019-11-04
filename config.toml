@@ -6,7 +6,7 @@ theme = "hugo-elate-theme"
 
 [params]
   
-  # custom_css = ["css/custom1.css", "css/custom2.css"]
+  custom_css = ["css/custom.css"]
 
   # Meta
   author = ""
@@ -171,12 +171,12 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "My primary focus has always been the basic need to understand the human body as it relates to nutrition, to offset illness and disease, and to increase health and vitality. Health as it relates to food and nutrition is a very complicated and personal issue for all of us. I am inspired, caring and very passionate about helping my clients with personalized programs to deal with their specific concerns and lifestyle patterns."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      name = "Michelle"
+      position = "Nutritional Consultant and Health Coach"
+      description = "Over the last 25 years, I have experienced, in some way or another, some of the healthiest nutritional advice from a wide variety of resources."
       img = "person1.jpg"
       alt = "Person1"
       social = [
@@ -185,33 +185,9 @@ theme = "hugo-elate-theme"
         ["icon-linkedin", "#"]
       ]
 
-    [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
-      alt = "Person2"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
-      ]
-
-    [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]      
-
   # Counters section
   [params.counters]
-    enable = true
+    enable = false
     title = "Stats"
     background = "full_image_1.jpg"
 
@@ -253,7 +229,7 @@ theme = "hugo-elate-theme"
     map = true
     form = true
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "If you would like to look and feel healthier I would love to meet with you to go over simple and practical ways to help you attain better health."
     
     # Available icons: http://simplelineicons.com/
     details = [
