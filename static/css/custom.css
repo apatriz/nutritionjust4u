@@ -15,6 +15,6 @@
   /* Android 2.3 */
   background-image: -webkit-repeating-linear-gradient(top left, #00020140 0%, #130011fa 100%);
   /* IE10+ */
-  background-image: repeating-linear-gradient(to bottom right, #00020140 0%, #130011fa 100%);
+  background-image: repeating-linear-gradient(to bottom right, #8a59a740 0%, #343e35fa 100%);
   background-image: -ms-repeating-linear-gradient(top left, #00020140 0%, #130011fa 100%);
 }
