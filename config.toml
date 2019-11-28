@@ -54,22 +54,22 @@ theme = "hugo-elate-theme"
     title = "Eat"
     description = "No food groups eliminated, no counting calories"
     url = "#"
-    icon = "icon-bulb"
-    img = "img_7.jpg"
+    icon = "icon-heart"
+    img = "image6.jpg"
 
   [[params.intro.item]]
     title = "Live"
-    description = "Healthy skin, more energy, less illness"
+    description = "More energy, healthy skin, less illness"
     url = "#"
-    icon = "icon-rocket"
-    img = "img_10.jpg"
+    icon = "icon-energy"
+    img = "image1.jpg"
 
     [[params.intro.item]]
     title = "Stay Sharp"
     description = "Better cognitive clarity, more restful sleep"
     url = "#"
-    icon = "icon-rocket"
-    img = "img_10.jpg"
+    icon = "icon-bulb"
+    img = "image3.jpg"
 
   [params.intro.video]
     enable = false
@@ -157,12 +157,12 @@ theme = "hugo-elate-theme"
     [[params.services.item]]
       title = "Planning and Insight"
       description = "I will ask you many targeted questions and gain insights into your overall health. I will also ask you to relay your health goals and/or expectations. I will need to know your current meals, supplements and exercise routines. Hearing your personal story matters!"
-      icon = "icon-anchor"
+      icon = "icon-chart"
 
     [[params.services.item]]
       title = "Building a Personalized Path"
       description = "I will go over my prepared recommendations including meal plans and supplements I would recommend based on your specific needs. I will boil all the complicated advice down to targeted specific needs based on your personal history. Walking into a health shop and purchasing supplements off a shelf based on a Google search or the latest trends is not always advisable nor necessarily the right thing for you to do. I will help you find your own path to take."
-      icon = "icon-layers2"
+      icon = "icon-compass"
 
   # About section
   [params.about]
@@ -174,13 +174,9 @@ theme = "hugo-elate-theme"
       name = "Michelle"
       position = "Nutritional Consultant and Health Coach"
       description = "Over the last 25 years, I have experienced, in some way or another, some of the healthiest nutritional advice from a wide variety of resources."
-      img = "person1.jpg"
+      img = "artichokes.jpg"
       alt = "Person1"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
-      ]
+      social = []
 
   # Counters section
   [params.counters]
