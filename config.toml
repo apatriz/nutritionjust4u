@@ -9,9 +9,9 @@ theme = "hugo-elate-theme"
   custom_css = ["css/custom.css"]
 
   # Meta
-  author = ""
+  author = "Michelle"
   description = ""
-  email = ""
+  email = "nutritionjust4u@gmail.com"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
   googleMapsApiKey = ""
@@ -226,8 +226,7 @@ theme = "hugo-elate-theme"
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "Vancouver, BC, Canada"],
-        ["icon-envelope", "info@freehtml5.co"]
+        ["icon-home", "Vancouver, BC, Canada"]
       ]
 
     name = "Name"
