@@ -62,7 +62,7 @@ theme = "hugo-elate-theme"
     description = "More energy, healthy skin, less illness"
     url = "#"
     icon = "icon-energy"
-    img = "image1.jpg"
+    img = "image8.jpg"
 
     [[params.intro.item]]
     title = "Stay Sharp"
@@ -173,7 +173,7 @@ theme = "hugo-elate-theme"
     [[params.about.item]]
       name = "Michelle"
       position = "Nutritional Consultant and Health Coach"
-      description = "Over the last 25 years, I have experienced, in some way or another, some of the healthiest nutritional advice from a wide variety of resources."
+      description = "Over the last 25 years, I have experienced some of the healthiest nutritional advice from a wide variety of resources."
       img = "artichokes.jpg"
       alt = "Person1"
       social = []
