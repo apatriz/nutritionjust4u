@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "nutritionjust4u.com"
 title = "Nutrition Just For You"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
