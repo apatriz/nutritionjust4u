@@ -31,3 +31,11 @@
 #fh5co-services .container{
   background-color: rgba(0,0,0,0.2);
 }
+#fh5co-intro .fh5co-block > .fh5co-text,
+#fh5co-intro .fh5co-block h2,
+#fh5co-intro .fh5co-block > .fh5co-text .fh5co-intro-icon{
+  color: #fff;
+}
+#fh5co-intro .fh5co-block{
+  border: 1px solid white;
+}
