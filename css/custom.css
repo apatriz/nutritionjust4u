@@ -1,3 +1,6 @@
+body{
+  color: #6d6a6a;
+}
 #fh5co-home .gradient,
 #fh5co-services .gradient {
   position: absolute;
@@ -38,7 +41,7 @@
   text-shadow: 2px 2px 4px #000000;
 }
 #fh5co-intro .fh5co-block{
-  font-size: 2rem;
+  font-size: 2.2rem;
 }
 #fh5co-intro .fh5co-block{
   border: 1px solid white;
@@ -49,4 +52,7 @@
 #fh5co-services:before, 
 #fh5co-services:after{
   display:none;
+}
+.fh5co-person .fh5co-position {
+  color: #a09d9d;
 }
