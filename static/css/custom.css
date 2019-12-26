@@ -35,7 +35,18 @@
 #fh5co-intro .fh5co-block h2,
 #fh5co-intro .fh5co-block > .fh5co-text .fh5co-intro-icon{
   color: #fff;
+  text-shadow: 2px 2px 4px #000000;
+}
+#fh5co-intro .fh5co-block{
+  font-size: 2rem;
 }
 #fh5co-intro .fh5co-block{
   border: 1px solid white;
+}
+.section-heading h3 {
+  color: #6d6a6a;
+}
+#fh5co-services:before, 
+#fh5co-services:after{
+  display:none;
 }
