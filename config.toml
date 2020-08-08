@@ -152,7 +152,7 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Services"
-    description = "Simple, affordable, individualized plans in just two sessions. Just $25 per session. You will have the key to becoming a healthier, more vibrant version of yourself."
+    description = "Simple, individualized plans to follow. No 'fad' products to purchase. I will work with your routine and your food preferences and give  you the insights you need to make the difference you are looking for. You will have the key to becoming a healthier, more vibrant version of yourself."
 
     [[params.services.item]]
       title = "Planning and Insight"
