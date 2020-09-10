@@ -43,8 +43,8 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "Small Changes = Big Results"
-    subtitle = 'Move forward with confidence. Find your way along a personalized path towards helping your body work more efficiently.'
+    title = "100% Free Nutritional Consulting"
+    subtitle = 'I am passionate about building a healthier community during a tough time that we have all shared together. I want to inspire change for anyone looking to improve their health and will be providing my services at no cost during this time. <a href="#fh5co-contact">Contact me !</a>'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -151,7 +151,7 @@ theme = "hugo-elate-theme"
   # Services section
   [params.services]
     enable = true
-    title = "Services"
+    title = "Your Own Path"
     description = "Simple, individualized plans to follow. No 'fad' products to purchase. I will work with your routine and your food preferences and give  you the insights you need to make the difference you are looking for. You will have the key to becoming a healthier, more vibrant version of yourself."
 
     [[params.services.item]]
